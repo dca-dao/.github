@@ -64,6 +64,7 @@ yarn start
 - Finally you can access the total value of your purchases and withdraw the amount
 
 # Graphs and images
+Images display [here](https://github.com/dca-dao/.github/blob/master/profile/README.md)
 ![Diagram](./images/13-22-39.png)
 ![Diagram](./images/16-52-07.png)
 ![Diagram](./images/Schema_04_04.jpg)

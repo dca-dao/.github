@@ -8,8 +8,8 @@ This project is a decentralized dollar-cost averaging solution for the Ethereum 
 
 # Stack
 ## Project
-- Smart contracts : Solidity language with brownie-eth (python)
-- Frontend : Typescript language with React framework
+- Smart contracts : [Solidity](https://github.com/ethereum/solidity)(GPL 3.0 licence) language with the [brownie](https://github.com/eth-brownie/brownie)(MIT licence) library (python)
+- Frontend : [Typescript](https://github.com/microsoft/TypeScript)(GPL 2.0 licence) language with [React](https://github.com/facebook/react)(MIT licence)
 ## Architecture
 - Smart contracts : We followed the [diamond pattern](https://eips.ethereum.org/EIPS/eip-2535#simple-summary) for our smart contracts, which is a standard for creating modular smart contracts that can be extended after deployment
 - Frontend : React components

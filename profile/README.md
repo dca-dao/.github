@@ -40,7 +40,8 @@ cd frontend/
 yarn install
 yarn start
 ```
-## Adding Metamask to Firefox (default navigator on Fedora Workstation 36)
+This will use the hosted contracts, there is no need to deploy them locally
+## Adding Metamask to Firefox (default browser on Fedora Workstation 36)
 - Download [Metamask](https://addons.mozilla.org/fr/firefox/addon/ether-metamask/)
 - Click on `Get Started`
 - Click on `Import a wallet`

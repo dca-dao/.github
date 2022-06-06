@@ -23,6 +23,9 @@ This project is a decentralized dollar-cost averaging solution for the Ethereum 
 - Frontend : Material-ui components, simple UI
 
 # Graphs and images
+![Diagram](./images/13-22-39.png)
+![Diagram](./images/Schema_04_04.jpg)
+![Diagram](./images/13-07-52.png)
 
 
 # Installation tutorial (Fedora Workstation 36)

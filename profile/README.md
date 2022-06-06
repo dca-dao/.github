@@ -58,5 +58,6 @@ yarn start
 
 # Graphs and images
 ![Diagram](./images/13-22-39.png)
+![Diagram](./images/16-52-07.png)
 ![Diagram](./images/Schema_04_04.jpg)
 ![Diagram](./images/13-07-52.png)

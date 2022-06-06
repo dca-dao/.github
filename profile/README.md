@@ -54,7 +54,14 @@ yarn start
 ## On the DCA page
 - Click connect
 - Choose your account
-- You have access to the app ! 
+- You have access to the app !
+
+# How to setup a DCA
+- Go to the DCA page and connect
+- Make sure that you have enough ETH to pay for gas
+- First, you need to approve the DAI contract and fund your acount with DAI, this will be used as a reserve
+- Then you need to setup the amount and frequency of your DCA, this will take the amount in DAI and swap it for ETH
+- Finally you can access the total value of your purchases and withdraw the amount
 
 # Graphs and images
 ![Diagram](./images/13-22-39.png)

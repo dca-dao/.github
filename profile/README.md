@@ -14,10 +14,11 @@ This project is a decentralized dollar-cost averaging solution for the Ethereum 
 - Smart contracts : We followed the [diamond pattern](https://eips.ethereum.org/EIPS/eip-2535#simple-summary) for our smart contracts, which is a standard for creating modular smart contracts that can be extended after deployment
 - Frontend : React components
 ## Devops
-- Smart contracts : CI on CircleCI with a custom docker image
+- Workflow : [Gitflow](https://www.atlassian.com/fr/git/tutorials/comparing-workflows/gitflow-workflow)
+- Smart contracts : CI on [CircleCI](https://app.circleci.com/pipelines/gh/dca-dao/smart-contracts) with a custom [docker image](https://hub.docker.com/repository/docker/pfontain/cci-dca-browie)
 - Frontend : CI with github actions, test coverage report on [codecov](https://about.codecov.io/), deployed on netlify
 ## Tests
-- Smart contracts : Python tests with pytests
+- Smart contracts : Python unit tests with pytests on Ethereum mainnet fork
 - Frontend : Tests with react testing library, test coverage on [codecov](https://about.codecov.io/) 
 ## UX/UI
 - Frontend : Material-ui components, simple UI

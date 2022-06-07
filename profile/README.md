@@ -2,7 +2,7 @@
 This project is a decentralized dollar-cost averaging solution for the Ethereum cryptocurrency on the ethereum blockchain, dollar-cost averaging (DCA) is an investment strategy in which an investor divides up the total amount to be invested across periodic purchases of a target asset in an effort to reduce the impact of volatility on the overall purchase
 
 # Repositories
-- [smart-contracts](https://github.com/dca-dao/smart-contracts) : Smart contracts for our application, a smart contract is a self-executing contract written into lines of code, this can be considered as our backend, these [contracts](https://louper-mark3labs-pro.vercel.app/?address=0x4e551ab784a1acDDE29eb4A5C4c6275d8fA4D52D&network=kovan) are deployed on the kovan test network for ethereum
+- [smart-contracts](https://github.com/dca-dao/smart-contracts) : Smart contracts for our application, a smart contract is a self-executing contract written into lines of code, this can be considered as our backend, these [contracts](https://louper-mark3labs-pro.vercel.app/?address=0x3D234faB36905f4d75753564f3301f2119Cb9cCA&network=kovan) are deployed on the kovan test network for ethereum
 - [frontend](https://github.com/dca-dao/frontend) : Web interface repository, hosted [here](https://dapp-dca.netlify.app/) 
 - [brownie_lottery_tuto](https://github.com/dca-dao/brownie_lottery_tuto) & [token-farm-dapp](https://github.com/dca-dao/token-farm-dapp) : Tutorials we learned from and trained on
 

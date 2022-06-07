@@ -23,6 +23,23 @@ This project is a decentralized dollar-cost averaging solution for the Ethereum 
 ## UX/UI
 - Frontend : Material-ui components, simple UI
 
+# Hosted
+
+## Smart contract
+[Diamond Louper](https://louper-mark3labs-pro.vercel.app/?address=0x3D234faB36905f4d75753564f3301f2119Cb9cCA&network=kovan) 
+
+DcaDiamond : [0x4e551ab784a1acDDE29eb4A5C4c6275d8fA4D52D](https://kovan.etherscan.io/address/0x4e551ab784a1acDDE29eb4A5C4c6275d8fA4D52D) \
+DiamondCutFacet : [0x9d748B2d70138F6695D2285a2cBe354b13E2F1C9](https://kovan.etherscan.io/address/0x9d748B2d70138F6695D2285a2cBe354b13E2F1C9) \
+DiamondLoupeFacet : [0x94beDd10b9E22870EF8F5a68dc1bA4b006577797](https://kovan.etherscan.io/address/0x94beDd10b9E22870EF8F5a68dc1bA4b006577797) \
+OwnershipFacet : [0x1e201Ce87c8392704a5FfCD6E163380896CD3921](https://kovan.etherscan.io/address/0x1e201Ce87c8392704a5FfCD6E163380896CD3921) \
+DcaManagerFacet : [0xBbb3CC5B56C450DF2A22b740A3652975c45ef021](https://kovan.etherscan.io/address/0xBbb3CC5B56C450DF2A22b740A3652975c45ef021) \
+DcaKeeperFacer : [0xf47911C871472Fb7C5596Fd4DaE93729f8766453](https://kovan.etherscan.io/address/0xf47911C871472Fb7C5596Fd4DaE93729f8766453)
+
+[Keeper](https://keepers.chain.link/kovan/3482) \
+
+## Front-end
+[Dca App](https://dapp-dca.netlify.app/)
+
 # Installation tutorial (Fedora Workstation 36)
 ## Setup
 ```console
